@@ -1,0 +1,14 @@
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <!-- Configuration for the default package. -->
+    <package name="default" extends="struts-default">
+                                   <!-- Este será el action-->
+        <action name="daw2" class="Actions.Procesa_Formulario">
+             <result name="error">/pagina_error.jsp</result>
+             <result name="success">/SaludaUsuario.jsp</result>
+        </action>
+    </package>
+</struts>
