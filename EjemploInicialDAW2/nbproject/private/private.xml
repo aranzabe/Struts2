@@ -2,6 +2,14 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/home/faranzabe/NetBeansProjects/Struts2/EjemploInicialDAW2/web/error.jsp</file>
+            <file>file:/home/faranzabe/NetBeansProjects/Struts2/EjemploInicialDAW2/web/META-INF/context.xml</file>
+            <file>file:/home/faranzabe/NetBeansProjects/Struts2/EjemploInicialDAW2/src/java/struts.xml</file>
+            <file>file:/home/faranzabe/NetBeansProjects/Struts2/EjemploInicialDAW2/web/saludo.jsp</file>
+            <file>file:/home/faranzabe/NetBeansProjects/Struts2/EjemploInicialDAW2/web/WEB-INF/web.xml</file>
+            <file>file:/home/faranzabe/NetBeansProjects/Struts2/EjemploInicialDAW2/web/index.jsp</file>
+            <file>file:/home/faranzabe/NetBeansProjects/Struts2/EjemploInicialDAW2/src/java/Acciones/miControlador.java</file>
+        </group>
     </open-files>
 </project-private>
